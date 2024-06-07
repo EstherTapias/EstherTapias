@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Esther! 👋
 
+## Sobre mí
 
-**EstherTapias/EstherTapias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy nuevo en el campo de la Inteligencia Artificial, actualmente estoy estudiando un bootcamp de IA para adentrarme en este fascinante mundo. 🤖📚
 
-Here are some ideas to get you started:
+## Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Antes de mi incursión en la IA, trabajé como Office Manager durante 5 años. En este rol, adquirí habilidades en gestión administrativa, coordinación de equipos y optimización de procesos. 📊📋
+
+## Orígenes
+
+Soy de la hermosa ciudad de Cádiz, situada en el sur de España. 🌞🌊
+
+## Intereses
+
+- **Animales:** Me encantan los animales, especialmente los perros. 🐶❤️ Nahko, es mi fiel compañero de vida y que me acompaña en esta gran aventura.
+- **Tecnología:** Apasionado por aprender sobre nuevas tecnologías y herramientas relacionadas con la IA. 💻🔧
+
+## Objetivos
+
+- Completar mi bootcamp de IA y convertirme en un experto en este campo.
+- Combinar mi experiencia en gestión con mis nuevas habilidades en IA para ofrecer soluciones innovadoras. 🌐
+
+¡Gracias por visitar mi perfil! 😊
