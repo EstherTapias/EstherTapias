@@ -14,7 +14,7 @@ Soy de la hermosa ciudad de Cádiz, situada en el sur de España. 🌞🌊
 
 ## Intereses
 
-- **Animales:** Me encantan los animales, especialmente los perros. 🐶❤️ Nahko, es mi fiel compañero de vida,me acompaña en esta gran aventura y en todas las que están por venir.
+- **Animales:** Me encantan los animales, especialmente los perros. 🐶❤️ Nahko, mi fiel compañero de vida,me acompaña en esta gran aventura y en todas las que están por venir.
 - **Tecnología:** Apasionado por aprender sobre nuevas tecnologías y herramientas relacionadas con la IA. 💻🔧
 
 ## Objetivos
