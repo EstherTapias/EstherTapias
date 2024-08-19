@@ -17,4 +17,4 @@ Cuando no estoy estudiando, me encontrarás disfrutando de la compañía de mi p
 - **Data Science**
 
 ### 📫 ¿Quieres conectarte?
-- **LinkedIn:** (https://www.linkedin.com/in/esther-tapias-paez-camino/)
+- **LinkedIn:** https://www.linkedin.com/in/esther-tapias-paez-camino/
