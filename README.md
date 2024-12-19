@@ -15,7 +15,7 @@ Cuando no estoy estudiando, me encontrarás disfrutando de la compañía de mi p
 - **Python**
 - **Machine Learning**
 - **Data Science**
-- - **Data Analyst**
+- **Data Analyst**
 
 ### 📫 ¿Quieres contactarme?
 - **LinkedIn:** https://www.linkedin.com/in/esther-tapias-paez-camino/
