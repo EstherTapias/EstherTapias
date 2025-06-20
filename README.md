@@ -73,7 +73,7 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**[esthertapias](https://github.com/EstherTapias)**&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=**https://github.com/EstherTapias**&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
