@@ -73,11 +73,11 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**https://github.com/EstherTapias**&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstherTapias&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[esthertapias](https://github.com/EstherTapias)**&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherTapias&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -85,8 +85,9 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 👀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=**[esthertapias](https://github.com/EstherTapias)**&color=blue&style=flat-square" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=EstherTapias&color=blue&style=flat-square" alt="Contador de visitas" />
 </p>
+
 
 ---
 
