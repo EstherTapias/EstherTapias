@@ -1,7 +1,9 @@
 <!-- Banner de cabecera -->
 <p align="center">
-  <img src="banner.png" alt="Esther Tapias Banner" style="border-radius: 10px; width: 800px; height: 150px; object-fit: cover; margin-bottom: 20px;" />
+  <img src="banner.png" alt="Esther Tapias Banner" 
+       style="border-radius: 10px; max-width: 90%; width: 600px; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;" />
 </p>
+
 
 # 👋 ¡Hola! Soy Esther
 
