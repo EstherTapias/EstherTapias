@@ -26,7 +26,6 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 
 **Backend & DevOps**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
@@ -74,11 +73,11 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**EstherTapias**&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=**esthertapias**&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**EstherTapias**&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**esthertapias**&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -86,7 +85,7 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 👀 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=**EstherTapias**&color=blue&style=flat-square" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=**esthertapias**&color=blue&style=flat-square" alt="Contador de visitas" />
 </p>
 
 ---
