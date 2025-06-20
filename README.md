@@ -1,3 +1,8 @@
+<!-- Banner de cabecera -->
+<p align="center">
+  <img src="banner.png" alt="Esther Tapias Banner" style="border-radius: 10px;" />
+</p>
+
 # 👋 ¡Hola! Soy Esther
 
 ### 💡 Fullstack Developer | DevOps en formación | Exploradora de la IA y los Datos
