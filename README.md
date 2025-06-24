@@ -1,6 +1,6 @@
 <!-- Banner de cabecera -->
 <p align="center">
-  <img src="banner.png" alt="Esther Tapias Banner" 
+  <img src="BANNER2.png" alt="Esther Tapias Banner" 
        style="border-radius: 10px; max-width: 90%; width: 600px; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;" />
 </p>
 
