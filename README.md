@@ -27,10 +27,11 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 ## 🛠️ Tecnologías que estoy aprendiendo
 
 ### 🖥️ Frontend  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
+
 
 ### 🔧 Backend & DevOps  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)  
