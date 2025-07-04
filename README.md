@@ -6,6 +6,7 @@
 
 
 # 👋 ¡Hola! Soy Esther
+
 <p align="center">
 💡 Fullstack Developer | DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
 </p>
@@ -117,8 +118,8 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
   <a href="https://www.linkedin.com/in/esther-tapias-paez-camino/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:esthertpc93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://github.com/EstherTapias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
 
@@ -127,4 +128,78 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ---
 
 > 💬 “No tienes que ver toda la escalera, solo da el primer paso.” – Martin Luther King Jr.
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Lenguajes -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <!-- Frameworks y Librerías Frontend -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+
+  <!-- Herramientas -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+
+  <!-- Librerías y frameworks IA y Datos -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
 
