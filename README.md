@@ -26,28 +26,31 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🖥️ Frontend  
+![HTML5](https://skillicons.dev/icons?i=html)  
+![CSS3](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![React](https://skillicons.dev/icons?i=react)
 
-**Backend & DevOps**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+### 🔧 Backend & DevOps  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![Docker](https://skillicons.dev/icons?i=docker)  
+![Linux](https://skillicons.dev/icons?i=linux)  
+![Git](https://skillicons.dev/icons?i=git)
 
-**IA & Datos**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
+### 🧠 Inteligencia Artificial & Ciencia de Datos  
+![Python](https://skillicons.dev/icons?i=python)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**🗄️ Bases de Datos y Herramientas**  
+### 🗄️ Bases de Datos y Herramientas  
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+
 
 **...y muchos más 🛠️**
 
