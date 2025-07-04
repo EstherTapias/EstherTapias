@@ -7,7 +7,7 @@
 
 # 👋 ¡Hola! Soy Esther
 <p align="center">
-### 💡 Fullstack Developer | DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
+💡 Fullstack Developer | DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
 </p>
 
 ---
@@ -44,7 +44,7 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
 
-### 🗄️ Bases de Datos y Herramientas  
+**🗄️ Bases de Datos y Herramientas**  
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
 ![VSCode](https://skillicons.dev/icons?i=vscode)
