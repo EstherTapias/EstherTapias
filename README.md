@@ -6,8 +6,9 @@
 
 
 # 👋 ¡Hola! Soy Esther
-
+<p align="center">
 ### 💡 Fullstack Developer | DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
+</p>
 
 ---
 
@@ -42,6 +43,11 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff)
+
+### 🗄️ Bases de Datos y Herramientas  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 **...y muchos más 🛠️**
 
@@ -100,8 +106,16 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 
 ## 📫 ¿Conectamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/esther-tapias-paez-camino/)
-- 💬 ¡Estoy abierta a colaborar, aprender en comunidad o simplemente compartir experiencias tech!
+<p align="center">
+  <a href="https://www.linkedin.com/in/esther-tapias-paez-camino/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:esthertpc93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+💬 ¡Estoy abierta a colaborar, aprender en comunidad o simplemente compartir experiencias tech!
 
 ---
 
