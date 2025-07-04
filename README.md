@@ -34,23 +34,16 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 
 
 ### 🔧 Backend & DevOps  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Docker](https://skillicons.dev/icons?i=docker)  
-![Linux](https://skillicons.dev/icons?i=linux)  
-![Git](https://skillicons.dev/icons?i=git)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git)
+
 
 ### 🧠 Inteligencia Artificial & Ciencia de Datos  
-![Python](https://skillicons.dev/icons?i=python)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 
 ### 🗄️ Bases de Datos y Herramientas  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![VSCode](https://skillicons.dev/icons?i=vscode)
+
 
 
 **...y muchos más 🛠️**
