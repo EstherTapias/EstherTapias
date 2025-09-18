@@ -4,11 +4,10 @@
        style="border-radius: 10px; max-width: 90%; width: 600px; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 30px;" />
 </p>
 
-
 # 👋 ¡Hola! Soy Esther
 
 <p align="center">
-💡 Fullstack Developer | DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
+💡 Fullstack Developer · DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
 </p>
 
 ---
@@ -33,14 +32,11 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-
-
 ### 🔧 Backend & DevOps  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 
 ### 🧠 Inteligencia Artificial & Ciencia de Datos  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,12 +46,10 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-
 ### 🗄️ Bases de Datos y Herramientas  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 
 **...y muchos más 🛠️**
 
@@ -94,11 +88,16 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstherTapias&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstherTapias&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherTapias&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstherTapias&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EstherTapias&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstherTapias&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 ---
@@ -109,14 +108,13 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
   <img src="https://komarev.com/ghpvc/?username=EstherTapias&color=blue&style=flat-square" alt="Contador de visitas" />
 </p>
 
-
 ---
 
 ## 📫 ¿Conectamos?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esther-tapias-paez-camino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/EstherTapias" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -127,7 +125,7 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
 
 ---
 
-> 💬 “No tienes que ver toda la escalera, solo da el primer paso.” – Martin Luther King Jr.
+> 💬 "No tienes que ver toda la escalera, solo da el primer paso." – Martin Luther King Jr.
 
 ---
 
@@ -198,8 +196,3 @@ Su energía y fidelidad me inspiran a ser constante, adaptable y optimista en to
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
-
