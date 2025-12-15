@@ -7,7 +7,7 @@
 # 👋 ¡Hola! Soy Esther
 
 <p align="center">
-💡 Fullstack Developer · DevOps en formación | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
+💡 Fullstack Developer · DevOps | Data Scientist | Data Analyst | Exploradora de la IA y los Datos
 </p>
 
 ---
@@ -17,7 +17,7 @@ Hoy me encuentro en pleno viaje de transformación, formándome como **Desarroll
 
 ---
 
-## 🚀 Formación en marcha
+## 🚀 Formación
 
 🎓 Bootcamp **Fullstack + DevOps**  
 🔬 Formación previa en **Inteligencia Artificial & Ciencia de Datos**
